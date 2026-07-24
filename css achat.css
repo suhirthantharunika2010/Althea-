@@ -1,0 +1,31 @@
+@font-face{
+	font-family: "classicmarket";
+	src:url("fonts/classicmarket.otf");
+}
+@font-face{
+	font-family: "gentlehearts";
+	src:url("fonts/gentlehearts.otf");
+}
+
+body{
+	background-color: black;
+
+}
+
+nav{
+	background-color: #000f55;
+	padding: 20px 50px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  list-style: none;
+  display: flex;
+}
